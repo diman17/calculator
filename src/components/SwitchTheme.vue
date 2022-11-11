@@ -5,7 +5,7 @@
       'border-black bg-trout': $store.state.isDarkMode,
       'bg-white': !$store.state.isDarkMode,
     }"
-    class="flex h-8 w-18 cursor-pointer justify-between rounded-2xl border p-0.75 transition-all"
+    class="mb-14 flex h-8 w-18 cursor-pointer justify-between rounded-2xl border p-0.75 transition-all"
     for="theme"
   >
     <img
